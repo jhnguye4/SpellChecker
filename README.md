@@ -1,6 +1,6 @@
 # SpellChecker
 # Commands
-* spellcheck<word-file>* <document-file>
+* ./spellcheck word-file document-file
 * example: ./spellcheck word-a.txt word-b.txt input-01.txt
 Multiple word files can be used for a document-file
 # About
